@@ -1,0 +1,5 @@
+{
+    "require": {
+        "unicodeveloper/novu": "^1.0"
+    }
+}
